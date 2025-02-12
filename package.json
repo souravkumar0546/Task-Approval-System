@@ -1,0 +1,26 @@
+{
+    "name": "task-approval-system",
+    "version": "1.0.0",
+    "description": "A backend project implementing a multi-approval process.",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js",
+      "dev": "nodemon app.js"
+    },
+    "dependencies": {
+      "bcrypt": "^5.0.1",
+      "body-parser": "^1.20.2",
+      "cors": "^2.8.5",
+      "dotenv": "^16.0.3",
+      "express": "^4.18.2",
+      "jsonwebtoken": "^9.0.0",
+      "nodemailer": "^6.9.1",
+      "pg": "^8.10.0",
+      "sequelize": "^6.32.1"
+    },
+    "devDependencies": {
+      "nodemon": "^2.0.22"
+    },
+    "author": "",
+    "license": "ISC"
+  }
