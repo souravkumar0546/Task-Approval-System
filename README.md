@@ -277,7 +277,7 @@ Success Response:
       "User": {
         "id": 9,
         "name": "John Doe",
-        "email": "commenter@example.com"
+        "email": "approver2@example.com"
       }
     }
   ],
